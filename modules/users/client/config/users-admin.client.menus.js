@@ -7,5 +7,7 @@ angular.module('users.admin').run(['Menus',
       title: 'Manage Users',
       state: 'admin.users'
     });
+	
   }
+  
 ]);
